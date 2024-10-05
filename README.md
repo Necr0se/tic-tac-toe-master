@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Tic-Tac-Toe application! This simple yet classic game is designed to provide hours of fun for players of all ages. Whether you're a seasoned player or new to the game, our application offers a user-friendly experience with a sleek design.
+Welcome to the Tic-Tac-Toe app! This timeless game is perfect for players of all ages, offering endless fun and entertainment. Whether you're a beginner or a seasoned pro, our app provides an intuitive, sleek design that makes every match enjoyable.
 
 ## Features
 
